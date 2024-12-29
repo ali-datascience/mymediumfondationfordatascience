@@ -1,7 +1,7 @@
 # Fondation for Data Science
 This is a Hanson tutorial that I have written on Medium. In this notebook, you will find the following practical exercises:
 
-**Introduction to Data Science:** A framework that guides Data Science projects.
+**Introduction to Data Science:** A framework that guides Data Science projects.<br>
 **Big Data:** Understanding large-scale data and how to process it.
 **Python for Data Science:** Why Python is the go-to language in this field.
 **Fundamentals of Statistics:** The statistical foundations that power data analysis.
